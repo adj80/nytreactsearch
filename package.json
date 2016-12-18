@@ -1,0 +1,29 @@
+{
+  "name": "nytreactsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.7.3",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adj80/nytreactsearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adj80/nytreactsearch/issues"
+  },
+  "homepage": "https://github.com/adj80/nytreactsearch#readme"
+}
